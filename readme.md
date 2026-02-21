@@ -2,7 +2,7 @@
 
 # How it works
 
-This is an addon that strips all metadata from Office documents like Word, Excel and PowerPoint.
+This is a program that strips all metadata from Office documents like Word, Excel and PowerPoint.
 
 Supported formats: docx, xlsx, pptx
 
